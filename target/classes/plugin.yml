@@ -1,0 +1,4 @@
+name: DawgsPlugin
+version: '1.0-SNAPSHOT'
+main: me.dawg.dawgsplugin.DawgsPlugin
+api-version: 1.19

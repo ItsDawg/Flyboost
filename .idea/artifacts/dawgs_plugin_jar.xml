@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="dawgs-plugin:jar">
+    <output-path>$PROJECT_DIR$/../localhost/plugins</output-path>
+    <root id="archive" name="dawgs-plugin.jar">
+      <element id="module-output" name="dawgs-plugin" />
+    </root>
+  </artifact>
+</component>
